@@ -80,6 +80,8 @@
 * [Top 10 Algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
 * [Hard interview questions that have a short recursive solution](https://www.quora.com/What-are-some-of-the-hardest-programming-questions-asked-during-an-interview-from-Google-Facebook-Microsoft-Amazon-Quora-Linkedin-Apple-Yahoo-etc-that-can-be-coded-in-a-few-lines-with-a-recursive-solution)
 
+## Product Design
+
 ## Guides
 
 ### Articles
@@ -138,11 +140,12 @@
 
 ### Mock interviews
 
-* [interviewing.io](https://interviewing.io/)
 * [Pramp](https://www.pramp.com/) *"Practice coding interviews for free"*
+* [thepminterview.com](http://thepminterview.com/)
 * [Refdash](https://refdash.com/)
 * [Gainlo](http://www.gainlo.co/)
 * [Candidacy.io](https://www.candidacy.io/)
+* [interviewing.io](https://interviewing.io/)
 
 ### Q&A
 * [How to prepare for my Google/Facebook interview if I have 6 months left?](http://www.quora.com/Career-Advice/What-are-the-ways-to-utilize-6-months-to-build-skill-set-to-get-into-Facebook-or-Google)
